@@ -30,10 +30,11 @@ All you need to do is:
   Step 7: All done. Open up your Ring App and enjoy 24/7 live stream.
 
 
-Supported Languages (13.05.2024): English, German -> !!! Please make sure to have one of this supported Languages running on the target device. !!!
+
+⚠ Supported Languages (13.05.2024): English, German -> !!! Please make sure to have one of this supported Languages running on the target device. !!!
 
 
-Recommended:
+⚠ Recommended:
 
 - If you plan to use this App on your daily Phone, you can toogle the Service off and on (as mentioned above in Step 6)
 - You can add a shortcut to toggle the service on and off, just go to "Settings -> Accessibilty -> Ring Play Live Video Continuously" and Enable "Ring Play Live Video Continuously shortcut"
