@@ -13,6 +13,7 @@ Ring Play Live Video Continuously!
 This App auto-recoonects the live stream as soon as it gets disconnected. On the different devices tested on, there was a "short break" between every disconnect of approx. 1 Second.
 There is no more User action requiered to keep the stream alive ツ.
 
+
 All you need to do is:
 
 - Step 1: Download the App and Install it to your Android-Device
@@ -29,9 +30,13 @@ All you need to do is:
   Step 7: All done. Open up your Ring App and enjoy 24/7 live stream.
 
 
+Supported Languages (13.05.2024): English, German -> !!! Please make sure to have one of this supported Languages running on the target device. !!!
+
+
 Recommended:
 
 - If you plan to use this App on your daily Phone, you can toogle the Service off and on (as mentioned above in Step 6)
 - You can add a shortcut to toggle the service on and off, just go to "Settings -> Accessibilty -> Ring Play Live Video Continuously" and Enable "Ring Play Live Video Continuously shortcut"
+
 
 Have fun and enjoy ツ
