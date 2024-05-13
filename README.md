@@ -7,7 +7,9 @@ After approx. 10 Minutes, the live stream will abort, and the user needs to "rec
 This is a big Problem to Users like me, because we want to see the live stream 24/7 on our screens (Fire Tablet, Android Smartphone or any other Android Based Device)
 
 Solution:
+
 Ring Play Live Video Continuously!
+
 This App auto-recoonects the live stream as soon as it gets disconnected. On the different devices tested on, there was a "short break" between every disconnect of approx. 1 Second.
 There is no more User action requiered to keep the stream alive ツ.
 
