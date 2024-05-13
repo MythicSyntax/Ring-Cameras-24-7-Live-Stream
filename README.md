@@ -17,7 +17,8 @@ There is no more User action requiered to keep the stream alive ツ.
 🛈 All you need to do is:
 
 - Step 1: Download the App and Install it to your Android-Device
-- Step 2: !!! Get a license key !!! Please contact me for a License! Actually i'm building the Website to automatically do this process for me.
+- Step 2: !!! Get a license key !!! (
+  (Please contact me for a License! Actually i'm building the Website to automatically do this process for me)
 - Step 3: Start the App on your Android Device
 - Step 4: Enter the license key you just purchased
 - Step 5: Click on the Button "Start / Stop Ring Live Video Service"
