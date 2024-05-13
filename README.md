@@ -38,6 +38,7 @@ There is no more User action requiered to keep the stream alive ツ.
 
 - If you plan to use this App on your daily Phone, you can toogle the Service off and on (as mentioned above in Step 6)
 - You can add a shortcut to toggle the service on and off, just go to "Settings -> Accessibilty -> Ring Play Live Video Continuously" and Enable "Ring Play Live Video Continuously shortcut"
+- Please Use the Live Video in Full-Screen Mode (not required but recommended)
 
 
 ツ Have fun and enjoy ツ
