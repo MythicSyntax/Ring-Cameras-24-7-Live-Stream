@@ -1,5 +1,5 @@
 <div align="center">
-![Logo](images/header.png)
+  <img src="/images/header.png" title="Ring Cameras-  24/7 Live Stream">
 </div>
 # Ring Cameras - 24/7 Live Video Stream
 
