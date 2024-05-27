@@ -1,6 +1,6 @@
 ![Logo](path_to_your_logo_image)
 
-# Ring Play Live Video Continuously App
+# Ring Cameras - 24/7 Live Video
 
 Hey there! In this Readme file, you will learn how to use the **Ring Play Live Video Continuously** app.
 
