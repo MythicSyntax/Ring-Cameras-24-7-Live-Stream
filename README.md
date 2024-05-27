@@ -3,7 +3,7 @@
 </div>
 
 
-<h1>Ring Cameras - 24/7 Live Video Stream</h1>
+<h1>Ring Cameras - 24/7 Live Stream Video</h1>
 
 Hey there! In this Readme file, you will learn how to use the **Ring Play Live Video Continuously** app.
 
