@@ -1,4 +1,4 @@
-![Logo](path_to_your_logo_image)
+![Logo](images/header.png)
 
 # Ring Cameras - 24/7 Live Video Stream
 
