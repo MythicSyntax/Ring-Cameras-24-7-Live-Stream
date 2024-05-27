@@ -1,5 +1,6 @@
+<div align="center">
 ![Logo](images/header.png)
-
+</div>
 # Ring Cameras - 24/7 Live Video Stream
 
 Hey there! In this Readme file, you will learn how to use the **Ring Play Live Video Continuously** app.
