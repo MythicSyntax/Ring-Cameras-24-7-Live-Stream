@@ -7,7 +7,7 @@
 
 Hey there! In this Readme file, you will learn how to use the **Ring Play Live Video Continuously** app.
 
-## ❔ About this App made for Ring
+## ❔ About this App
 **Ring does not allow exceeding more than 10 minutes to live stream your Ring cameras. After approximately 10 minutes, the live stream will abort, and the user needs to manually "reconnect" to the live stream of their camera.**
 
 **This is a big problem for users like me, because we want to see the live stream 24/7 on our screens (Fire Tablet, Android Smartphone, or any other Android-based device).**
