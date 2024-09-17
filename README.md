@@ -54,6 +54,7 @@ Please make sure to have one of these supported languages running on the target 
 - **You can add a shortcut to toggle the service on and off. Just go to "Settings -> Accessibility -> Ring Play Live Video Continuously" and enable "Ring Play Live Video Continuously shortcut".**
 - **Please use the live video in full-screen mode (not required but recommended).**
 
+</hr>
 
 <strong>Contact:</strong> <a href="mailto:MythicSyntax@gmail.com">MythicSyntax@gmail.com</a>
 
