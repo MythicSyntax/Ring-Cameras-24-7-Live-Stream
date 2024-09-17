@@ -49,8 +49,9 @@ or something similar to the both examples above").**
 ### Step 7
 **All done. Open your Ring app and enjoy a 24/7 live stream.**
 
-## ⚠ Supported Languages (13.05.2024)
-**English, German (More Language Support on request. Use my Contact Information below)
+## ⚠ Supported Languages (01. Sept. 2024)
+**English, German 
+(More Languages on request. Use my Contact Information below)
 
 Please make sure to have one of these supported languages running on the target device.**
 
@@ -58,6 +59,7 @@ Please make sure to have one of these supported languages running on the target 
 - **If you plan to use this app on your daily phone, you can toggle the service off and on (as mentioned above in Step 6).**
 - **You can add a shortcut to toggle the service on and off. Just go to your Device- "Settings -> Accessibility -> Ring Play Live Video Continuously" and enable "Ring Play Live Video Continuously shortcut".**
 - **I recommend to use the live video in full-screen mode (its not required but recommended).**
+- **By the fault of the Ring Developers, when you watch the Live Stream, you don't get any more notifications, when the camera detects a movement/ person etc. Im currently working on a on screen detection, which will send notifications thorough a web service to your phones. But this feature is actually not far in progress**
 
 <hr>
 
