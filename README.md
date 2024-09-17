@@ -46,7 +46,8 @@ Hey there! In this Readme file, you will learn how to use the **Ring Play Live V
 **All done. Open your Ring app and enjoy a 24/7 live stream.**
 
 ## ⚠ Supported Languages (13.05.2024)
-**English, German  
+**English, German (More Language Support on request. Use my Contact Information below)
+
 Please make sure to have one of these supported languages running on the target device.**
 
 ## ⚠ Recommended
