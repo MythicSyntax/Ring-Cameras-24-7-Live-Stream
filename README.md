@@ -13,7 +13,7 @@ Hey there! In this Readme file, you will learn how to use the **Ring Play Live V
 **This is a big problem for users like me, because we want to see the live stream 24/7 on our screens (Fire Tablet, Android Smartphone, or any other Android-based device).**
 
 ## 🛈 Solution
-### **Ring Cameras -  24/7 Live Stream <small>(old Name: Ring Play Live Video** Continuously)</small>
+### **Ring Cameras -  24/7 Live Stream <h5>(old Name: Ring Play Live Video** Continuously)</h5>
 
 **This app auto-reconnects the live stream as soon as it gets disconnected. On the different devices tested, there was a "short break" of approximately 1 second between each disconnect. No more user action is required to keep the stream alive ツ.**
 
