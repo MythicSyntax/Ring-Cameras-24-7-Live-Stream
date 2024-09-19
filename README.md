@@ -15,7 +15,7 @@ Hey there! In this Readme file, you will learn how to use the **Ring Play Live V
 ## 🛈 Solution
 ### **Ring Cameras -  24/7 Live Stream <h5>(old Name: Ring Play Live Video** Continuously)</h5>
 
-**This app auto-reconnects the live stream as soon as it gets disconnected. On the different devices tested, there was a "short break" of approximately 1 second between each disconnect. No more user action is required to keep the stream alive ツ.**
+**This app auto-reconnects the live stream as soon as it gets disconnected. On the different devices tested, there was a "short break" of approximately 1 second between each auto reconnect. So there is No more user action required, to keep the stream alive ツ.**
 
 ## 🛈 All you need to do is:
 
